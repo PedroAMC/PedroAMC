@@ -1,4 +1,4 @@
-### Second year student of a Computer Science and Engineering degree at Instituto Superior de Engenharia do Porto.
+### Third year student of a Computer Science and Engineering degree at Instituto Superior de Engenharia do Porto.
 
 <!--
 **PedroAMC/PedroAMC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
